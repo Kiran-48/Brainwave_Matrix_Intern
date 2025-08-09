@@ -1,0 +1,1 @@
+Repository for Brainwave Matrix Solutions internship tasks and projects. This repository showcases my work and progress during the internship period, as per the requirements of Brainwave Matrix Solutions.
